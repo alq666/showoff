@@ -4,7 +4,7 @@ require 'showoff/version'
 Gem::Specification.new do |s|
   s.name              = "showoff"
   s.version           = SHOWOFF_VERSION
-  s.date              = "2011-09-10"
+  s.date              = "2012-02-25"
   s.summary           = "The best damn presentation software a developer could ever love."
   s.homepage          = "http://github.com/schacon/showoff"
   s.email             = "schacon@gmail.com"
